@@ -1,0 +1,241 @@
+NIVEAU 1 (x10)
+* Navigation
+*** build Harbors
+*** Your figures may cross water tiles, but not end their movement in water.
+** Colossus
+* Philosophy
+*** build Temples
+*** 3 Resources -> draw 1 GP
+*** Start of turn : gain 1t
+** Statue Of Zeus
+* Currency
+*** build Markets
+*** METROPOLIS
+*** INCENSE -> gain 3c
+** Chichen itza
+* Metal Working
+*** build Barracks
+*** IRON -> when playing a military unit, spend Iron to increase its attack by 3 for the duration of its attack phase.
+*** -
+* Code of Laws
+*** build Trading Posts
+*** The first time in a turn you win a fight, gain 1 coin on this card (max 4).
+*** GOUV : Republic
+** Oracle
+* Writing
+*** build Library
+*** When you draw a culture card, draw 2 and discard 1 instead.
+*** SPY : cancel city action
+** Stonehenge
+* Pottery
+*** build Granary
+*** 2 Resources : 1 coin (max 4)
+*** culture hand +1
+** Pyramids
+* Horseback Riding
+*** Travel speed : 3
+*** SILK -> gain 9t, give 6t to another player  
+*** -
+* Animal Husbandry
+*** build Walls
+*** WHEAT -> +4h
+*** Once per battle, heal up to 3 damages from units.
+** Hanging Garden
+* Masonry
+*** build Workshop
+*** Stacking limit : 3
+** Great Wall
+
+nv2
+* Democracy
+** Brandenburg
+*** UNIT : infantry 2
+*** GOUV : Democracy
+*** Spend 6t to add 1 coin to this card (max 4)
+* Chivalry
+** Taj Mahal
+*** UNIT : chivalry 2
+*** GOUV : Feodalism
+*** IRON : Deal 3 damages
+* Monarchy
+** Himeji
+*** GOUV : Monarchy
+*** SILK : obsolete a lvl1 wonder or kill 1 random unit
+*** +1 culture hand size
+* Irrigation
+*** 3 cities
+*** -
+*** -
+* Printing Press
+** Louvre
+*** build University
+*** Stacking limit 4
+*** Spend 4 culture to add 1 coin to this card (max 4)
+* Sailing
+** porcelain tower
+*** Travel Speed 4
+*** Can cross and stop movement in water
+*** INCENSE -> +5c
+* Engineering
+** Leo Workshop
+*** build Aqueduct
+*** Can split hammers in 2 builds
+*** -
+* Mathematics
+** Notre Dame
+*** build Iron Mine
+*** WHEAT : gain 6h
+*** UNIT : archer 2
+* Civil Service
+** Angkor Wat
+*** +1 coin
+*** SPY : cancel a culture card
+*** +1 culture hand
+
+NIVEAU 3 (x8)
+* Railroad
+* Biology
+
+* Military Science
+*** Stacking limit : 5
+*** build : Academies
+*** Your cities produce 1h for every 3 coins you have
+* Gunpowder
+*** UNIT : infantry
+*** 2 resources: obsolete wonder lvl 1 or 2
+*** 1 coin
+** Kremlin
+* Metal Casting
+*** UNIT : artilery
+*** INCENSE -> +6c
+** Statue of liberty
+* Steam
+*** travel speed 5
+*** can cross and end mvt in water
+*** SILK -> teleport to water
+** Panama Canal
+* Banking
+*** build : banks
+*** WHEAT -> build an unlocked building
+** United nations
+* Theology
+*** hand +1
+*** GOUV : Theocracy
+*** build : Cathedral
+** Christo Redentor
+* Communism
+*** GOUV : Communism
+*** UNIT : cavalry
+*** SPY -> lockdown army
+* Education
+*** Coin when building a wonder (max 4)
+*** All resources -> free tech
+
+NIVEAU 4 (x6)
+* Nuclear Theory
+* Combustion
+*** UNIT : cav
+*** Once per turn, destroy building when stopping on it. Walls are useless.
+** Big Ben
+* Flight
+*** Mvmt 6
+*** Fly
+*** build airplanes
+* Computers
+*** coin
+*** Battle hand +1 per 4 coins
+*** start of turn : gain 1c and 1t per 3 coins
+*** WHEAT -> 10h
+* Ballistics
+*** UNIT : art
+*** IRON -> deal 6
+* Replaceable parts
+*** UNIT : inf
+*** Stacking Limit 6
+*** Once per turn, when building military figures, you may place the built figures in a stack of your figures instead of in the outskirt of the city.
+* Mass Media
+*** Culture events cannot be canceled
+*** SPY -> Cancel a resource ability (resource is lost) or a city action
+** Sydney opera
+
+WONDERS
+nv1 
+**** Great Lighthouse
+* Hanging Garden
+** animal husbandry
+as is
+* Colossus
+** navigation
+3t
+* Pyramids
+** pottery
+as is
+* Chichen Itza
+** currency
+SOT : free building ?
++4h au lieu de +3 ?
+* The Great Wall
+** masonry
+as is
+* Statue of Zeus
+** philosophy
++4 instead of +6
+* Oracle 
+** code of laws
+Whenever you want, you may look at the culture cards hand of another player, or the dop card of the Great people deck or any culture events deck.
+* Stonehenge
+** writing
+Advancing a spot on the culture track costs 1c less.
+
+nv2
+**** Machu Pichu
+* himeji castle
+** Monarchy
+as is
+* porcelain tower
+** sailing
+as is
+* Angkor vat
+** Civil Service
+harvest twice 
+* Louvre
+** printing press
++4c per turn
+* leonardo's workshop
+** eningeering
+EVERYTHING costs 3 less
+* Notre Dame
+** Mathematics
+as is
+* Brandenburg
+** Democracy
+Enemy cannot enter the outskirts of your cities and cannot attack your cities except for your capital
+* Taj mahal
+** Chivalry
+SOT : If you have 2/5/8 coins, you may draw a lvl 1/2/3 culture card
+
+nv3
+* Statue of Liberty
+** Metal Casting
+SOT : +1 tech
+* UN
+** Banking
+You or your buildings/cities/units/figures/coins/cards cannot be targetted by culture events.
+* Panama Canal
+** Steam
+SOT : +1 coin
+* Sydney opera House
+** Mass Media
+SOT : +1 culture track
+* Christo Redentor
+** Theology
+as is
+* Big Ben
+** Combustion
+as is
+* Kremlin
+** GunPowder
+Once per turn, you may spend any resource as a Spy
+
+
+
