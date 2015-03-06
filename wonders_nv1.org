@@ -1,0 +1,28 @@
+* Hanging Garden
+** SOT : build a figure in the square containing the Hanging Garden for free.
+as is
+
+* Colossus
+** SOT : Gain 3t.
+as is
+
+* Great Wall
+as is
+
+* Statue of Zeus
+** +6 military bonus
+as is
+
+* Pyramids
+** TODO to clarify
+as is
+
+* Chichen Itza
+** SOT : build an unlocked building for free in the city containing Chichen Itza.
+au lieu de +3h. Necessaire d'avoir des techs à bâtiment, synergie avec Metropole pour avoir plus de place ?
+
+* Stonehenge
+** Advancing a spot on the culture track costs 1c less.
+
+* Oracle
+** Once per turn, you may look at the culture cards or the hidden resources of another player. Once per turn, you may look at the top card of the culture or great people deck.

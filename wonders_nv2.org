@@ -1,0 +1,27 @@
+* Himeji castle
+** Your units gain +1 atk
+as is
+
+* Porcelain tower
+** Technologies cost 5 less
+as is
+
+* Angkor vat
+** You may harvest twice
+
+* Louvre
+** SOT : Gain 4c
++4 au lieu de +3
+
+* leonardo's workshop
+** Buildings, Figures, Units and wonders cost 3h less.
+
+* Notre Dame
+** When you research a technology, if you spend at least 6 more trade than necessary, you may research an additional technology of the same level or lesser.
+as is
+
+* Brandenburg
+** Enemy cannot enter the outskirts of your cities and cannot attack your cities except for your capital
+
+* Taj mahal
+** SOT : If you have 2/5/8 coins, you may draw a level 1/2/3 culture card

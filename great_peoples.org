@@ -1,0 +1,25 @@
+HUMANITARIANS
+* Jacques Cousteau
+*** Immediately build a harbor in one of your cities, if able.
+* Susan B Anthony
+*** Your cities produce 2 additional hammers.
+* Mother Theresa
+*** You may immediately give one of your coins to another player. If you do, draw 5 culture event cards and discard 4 of them.
+* Florence Nightingale
+*** While involved in a battle, you may discard this card to heal all wounds from your units.
+* Jim Henson
+*** Each time you build a wonder, gain 2t and 2c.
+* Martin Luther King
+*** Your city actions cannot be cancelled. You are imune to anarchy.
+* St Francois d'Assise
+*** You may immediately place 2 of your army figures on this card. If you do, gain 6c. As long as this card is in play, you will not be able to use those army figures.
+
+GENERALS
+* Leonidas
+* Gustavus Adolphus
+*** You may immediately discard 2 resources. If you do, increase the level of one of your unit types by 1.
+* Hannibal
+* Khalid Ibn Al Walid
+* Gergy Zhukov
+* Joan of Arc
+* Sun Tzu

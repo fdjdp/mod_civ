@@ -1,0 +1,46 @@
+* Democracy
+** c15 Brandenburg
+*** UNIT : infantry 2
+*** GOUV : Democracy
+*** Spend 6t to add 1 coin to this card (max 4)
+* Chivalry
+** c15 Taj Mahal
+*** UNIT : chivalry 2
+*** GOUV : Feodalism
+*** IRON : Deal 3 damages
+* Monarchy
+** c15 Himeji
+*** GOUV : Monarchy
+*** SILK : obsolete a lvl1 wonder or kill 1 random unit
+*** +1 culture hand size
+* Irrigation
+*** 3 cities
+*** -
+*** -
+* Printing Press
+** c15 Louvre
+*** build University
+*** Stacking limit 4
+*** Spend 4 culture to add 1 coin to this card (max 4)
+* Sailing
+** c15 porcelain tower
+*** Travel Speed 4
+*** Can cross and stop movement in water
+*** INCENSE -> +5c
+* Engineering
+** c15 Leo Workshop
+*** build Aqueduct
+*** Can split hammers in 2 builds
+*** -
+* Mathematics
+** c15 Notre Dame
+*** build Iron Mine
+*** WHEAT : gain 6h
+*** UNIT : archer 2
+* Civil Service
+** c15 Angkor Wat
+*** +1 coin
+*** SPY : cancel a culture card
+*** +1 culture hand
+
+NIVEAU 3 (x8)
